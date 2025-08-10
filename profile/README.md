@@ -1,6 +1,7 @@
 # 7-Zip — High-Performance Open-Source File Archiver
 
-(https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/7-Zip_Icon.svg/1200px-7-Zip_Icon.svg.png)
+[(https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/7-Zip_Icon.svg/1200px-7-Zip_Icon.svg.png)](https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/7-Zip_Icon.svg/1200px-7-Zip_Icon.svg.png
+)
 
 Unzip the archive to a separate folder and run the `.exe` file (Windows) or `.sh` file (macOS/Linux).
 
